@@ -1,5 +1,5 @@
 import React, { Component } from "react";
-import "./App.css";
+import "./Main.css";
 
 export default class Square extends Component {
   constructor(props) {
